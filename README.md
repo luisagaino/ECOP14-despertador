@@ -24,13 +24,13 @@ As bibliotecas referentes ao LCD e ao teclado foram disponibilizadas pelos profe
 
 Os seguintes arquivos foram feitas por mim:
 * **Relógio** Possui duas funções:
- * Imprime no LCD o horário atual.
- * Imprime no LCD o horário em que se deseja acordar.
+  * Imprime no LCD o horário atual.
+  * Imprime no LCD o horário em que se deseja acordar.
 * **Opção:** Possui uma função que lê das teclas o modo de operação desejado.
 * **Ciclo:** Possui uma função que lê das teclas a quantidade de ciclos de sono desejadas pelo usuário e retorna esse valor.
 * **Manual:** Possui duas funções:
- * Lê das teclas as horas de quando se deseja acordar.
- * Lê das teclas os minutos de quando se deseja acordar.
+  * Lê das teclas as horas de quando se deseja acordar.
+  * Lê das teclas os minutos de quando se deseja acordar.
 * **Delay:** Define um atraso.
 * **itoa:** Transforma o valor lido no ADC em um float.
 
