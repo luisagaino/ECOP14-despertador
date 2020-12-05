@@ -32,7 +32,7 @@ Os seguintes arquivos foram feitas por mim:
   * Lê das teclas as horas de quando se deseja acordar.
   * Lê das teclas os minutos de quando se deseja acordar.
 * **Delay:** Define um atraso.
-* **itoa:** Transforma o valor lido no ADC em um float.
+* **I2F:** Transforma o valor lido no ADC em um float.
 
 ### Main
 
